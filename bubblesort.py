@@ -1,5 +1,3 @@
-from re import X
-
 
 def bubble(x):
     n = len(x) -1
